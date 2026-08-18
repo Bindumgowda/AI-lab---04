@@ -1,0 +1,3 @@
+Initial Facts: ['Socrates_is_human', 'All_humans_are_mortal']
+Rule Triggered: IF ['Socrates_is_human', 'All_humans_are_mortal'] THEN Add Socrates_is_mortal
+Final Knowledge Base Facts: {'All_humans_are_mortal', 'Socrates_is_mortal', 'Socrates_is_human'}
